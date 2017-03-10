@@ -1,0 +1,15 @@
+ol {
+  list-style-type: none ;
+display: flex;
+flex-wrap: wrap;
+}
+
+li{
+  border : 1px solid #000;
+  width :320px;
+  margin : 6px;
+}
+
+li img {
+ width : 100%;
+}
